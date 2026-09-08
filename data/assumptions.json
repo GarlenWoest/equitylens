@@ -1,0 +1,19 @@
+{
+  "_note": "Market inputs SEC EDGAR does not carry. Replace price/beta with live values from your data provider; they are dated snapshots, not live feeds.",
+  "market": {
+    "risk_free": 0.042,
+    "equity_risk_premium": 0.045,
+    "as_of": "2026-09-01",
+    "source": "risk_free ~ 10Y UST; ERP ~ Damodaran implied"
+  },
+  "projection": {
+    "years": 5,
+    "terminal_growth": 0.025,
+    "cost_of_debt": 0.045,
+    "fade_to_terminal": true
+  },
+  "tickers": {
+    "AAPL": {"beta": 1.20, "price": 245.0, "price_as_of": "2026-09-01"},
+    "MSFT": {"beta": 0.90, "price": 505.0, "price_as_of": "2026-09-01"}
+  }
+}
