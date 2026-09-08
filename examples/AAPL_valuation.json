@@ -1,0 +1,22 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "wacc": 0.0946,
+  "cost_of_equity": 0.096,
+  "terminal_growth": 0.025,
+  "enterprise_value_bn": 1597.3,
+  "equity_value_bn": 1554.1,
+  "dcf_value_per_share": 103.57,
+  "market_price": 245.0,
+  "upside_vs_price": -0.5772,
+  "pct_value_in_terminal": 0.721,
+  "mc_p10": 88.57,
+  "mc_p50": 103.61,
+  "mc_p90": 123.35,
+  "ebit_margin": 0.311,
+  "effective_tax": 0.1814,
+  "comps_low": 132.18,
+  "comps_median": 156.76,
+  "comps_high": 163.53,
+  "market_implied_wacc": 0.0549
+}

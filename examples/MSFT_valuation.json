@@ -1,0 +1,22 @@
+{
+  "ticker": "MSFT",
+  "company": "MICROSOFT CORPORATION",
+  "wacc": 0.0825,
+  "cost_of_equity": 0.0825,
+  "terminal_growth": 0.025,
+  "enterprise_value_bn": 1478.1,
+  "equity_value_bn": 1478.1,
+  "dcf_value_per_share": 198.33,
+  "market_price": 505.0,
+  "upside_vs_price": -0.6073,
+  "pct_value_in_terminal": 0.779,
+  "mc_p10": 163.06,
+  "mc_p50": 198.54,
+  "mc_p90": 246.94,
+  "ebit_margin": 0.4568,
+  "effective_tax": 0.1842,
+  "comps_low": 378.46,
+  "comps_median": 483.19,
+  "comps_high": 502.48,
+  "market_implied_wacc": 0.0479
+}
