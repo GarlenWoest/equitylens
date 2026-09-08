@@ -1,0 +1,17 @@
+{
+  "_note": "Illustrative peer trading multiples, snapshot as of 2026-09-01. Replace with live values from your data provider. Large-cap tech comps are imperfect for a company like Apple (few true peers) -- treat the comps output as a sanity band, not a precise number.",
+  "AAPL": [
+    {"peer": "MSFT",  "ev_ebitda": 22.0, "pe": 33.0, "ev_sales": 11.0},
+    {"peer": "GOOGL", "ev_ebitda": 15.0, "pe": 21.0, "ev_sales": 6.0},
+    {"peer": "META",  "ev_ebitda": 14.0, "pe": 24.0, "ev_sales": 8.0},
+    {"peer": "HPQ",   "ev_ebitda": 7.0,  "pe": 9.0,  "ev_sales": 0.7},
+    {"peer": "DELL",  "ev_ebitda": 9.0,  "pe": 14.0, "ev_sales": 0.9}
+  ],
+  "MSFT": [
+    {"peer": "GOOGL", "ev_ebitda": 15.0, "pe": 21.0, "ev_sales": 6.0},
+    {"peer": "AAPL",  "ev_ebitda": 20.0, "pe": 32.0, "ev_sales": 8.5},
+    {"peer": "ORCL",  "ev_ebitda": 18.0, "pe": 28.0, "ev_sales": 9.0},
+    {"peer": "CRM",   "ev_ebitda": 20.0, "pe": 30.0, "ev_sales": 7.0},
+    {"peer": "ADBE",  "ev_ebitda": 19.0, "pe": 27.0, "ev_sales": 10.0}
+  ]
+}
