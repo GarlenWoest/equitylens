@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Big raw SEC dumps and the cache are regenerated on demand.
+data/raw/
+data/cache/
